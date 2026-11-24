@@ -27,7 +27,9 @@ Quero estudar sobre métodos que eu possa utilizar para que meu perfil no instag
 
 Fontes citadas:
 https://www.locaweb.com.br/blog/temas/marketing-e-seo/como-crescer-no-instagram/
-[Print do chat com citações](prints/printDio1.png)
+
+[Print do chat com citações
+prints/printDio1.png)
 
 ### Pergunta 2: Quanto posso chegar a faturar no mês
 **Resposta do notebook: As fontes **não estabelecem um valor único ou garantido de faturamento mensal**, pois os ganhos dependem da capacidade operacional, do volume de atendimentos e da organização do negócio[1][2].
@@ -41,7 +43,9 @@ No entanto, em diagnósticos de mercado voltados para empresas de assistência t
 
 * Fontes citadas:
 https://reparodigital.net/gestao-de-redes-sociais-para-assistencia-tecnica/
-[Print do chat com citações](prints/printDio2.png)
+
+[Print do chat com citações]
+(prints/printDio2.png)
 
 
 ## Materiais gerados
@@ -51,4 +55,4 @@ https://reparodigital.net/gestao-de-redes-sociais-para-assistencia-tecnica/
 ![Mapa mental](materiais/mapa-mental.png)
 
 ## Link do notebook
-🔗 [Acesse o notebook compartilhado]([cole aqui o link])
+🔗 https://notebook.google.com/notebook/2401187a-0344-4a59-afa3-e16fa01dc04e
